@@ -13,14 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<div align="center">
-<img src="https://count.getloli.com/get/@zkhssb?theme=rule34" alt="zkhssb" />
-</div>  
+--> 
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -68,6 +63,8 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zkhssb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+<img src="https://count.getloli.com/get/@zkhssb?theme=rule34" alt="zkhssb" />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
