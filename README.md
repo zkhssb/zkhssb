@@ -59,12 +59,22 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/zkhssb" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<a href="https://space.bilibili.com/107913373" target="_blank">
+<img src=https://img.shields.io/badge/bilibili-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zkhssb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center">
   <br/>  
-  <h2>Visitor</h2>
+  <h2>Friends</h2>
   <br/>  
   <img src="https://count.getloli.com/get/@zkhssb?theme=rule34" alt="zkhssb" />
 </div>  
