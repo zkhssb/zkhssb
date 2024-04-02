@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://space.bilibili.com/107913373" target="_blank">
 <img src=https://img.shields.io/badge/bilibili-临空小贱-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI-2 style="margin-bottom: 5px;" />
 </a>  
-<a href="[https://space.bilibili.com/107913373](https://space.bilibili.com/3493297012082914)" target="_blank">
+<a href="https://space.bilibili.com/3493297012082914" target="_blank">
 <img src=https://img.shields.io/badge/bilibili-野生的矿泉水-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI-2 style="margin-bottom: 5px;" />
 </a>  
  
