@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+```hi
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣷⠴⢾⣿⣿⠿⠛⠉⢿⣿⠓⠂⠤⠄⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⠤⠒⢙⢟⠋⠀⠀⠈⠀⠀⠀⠀⡄⠑⡀⠀⠀⠀⠀⠈⠑⠒⠤⣀⠀⠀⠀
+⠀⠀⠀⠀⢀⡠⠚⠁⠀⢠⢂⠎⠀⡆⠀⠀⠀⠀⠀⠀⡇⠀⠠⠀⠀⢆⠀⠀⠀⠀⠀⠀⣩⣶⠆
+⠀⠀⠀⠀⢻⣧⣀⠀⠀⠂⡌⠠⠀⠓⠀⠀⠀⠀⠈⣁⣱⡀⠀⠀⠀⠘⣂⠀⠀⠀⢠⣾⡿⠃⠀            
+⠀⠀⠀⠀⠀⠹⣮⡀⠰⢠⢠⢷⣽⣶⠤⠦⠤⠤⠴⣿⣿⣿⠦⡄⠀⠀⠁⣂⣴⣾⡿⠋⠀⠀⠀          > MiuxuE <
+⠀⠀⠀⠀⠀⠀⠹⣿⡆⠘⡿⠸⣟⡭⠃⠀⠀⠀⠀⠻⣧⣯⠋⡊⠀⠀⢸⣿⣿⠋⠀⠀⠀⠀⠀            ——> Avatar: https://www.pixiv.net/artworks/86837764
+⠀⠀⠀⠀⠀⠀⠀⢹⠇⠀⠘⠄⠈⠀⠀⠀⠀⠀⠀⠀⠀⢀⠍⠀⠀⠀⢸⠁⠀⠆⠀⠀⠀⠀⠀             
+⠀⠀⠀⠀⠀⠀⢠⢻⡀⠰⣣⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠠⣀⠀⠀⠀⠨⠀⠀⠘⡀⠀⠀⠀⠀             “不要用矿泉水瓶装我,我要自由的流淌,与山林相伴 _
+⠀⠀⠀⠀⠀⢀⠃⡎⢣⣠⣿⣿⣿⣷⣶⣤⣤⣾⣿⣿⣿⣿⣿⠀⠀⠀⡆⠀⠀⠀⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠀⢇⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣿⡤⡖⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠦⡀⠈⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣟⠀⠠⠾⠟⡳⠁⢀⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠔⠁⠀⠀⠃⠐⠁⠀⠀⠀⠀
+⠀
+```
 <!--
 **zkhssb/zkhssb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +34,19 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://space.bilibili.com/107913373" target="_blank">
+<img src=https://img.shields.io/badge/bilibili-临空小贱-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI-2 style="margin-bottom: 5px;" />
+</a>  
+<a href="[https://space.bilibili.com/107913373](https://space.bilibili.com/3493297012082914)" target="_blank">
+<img src=https://img.shields.io/badge/bilibili-野生的矿泉水-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI-2 style="margin-bottom: 5px;" />
+</a>  
+ 
+</div>  
+
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%"> 
 
 
 
@@ -59,18 +87,9 @@ Here are some ideas to get you started:
 
 <br/>  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/zkhssb" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://space.bilibili.com/107913373" target="_blank">
-<img src=https://img.shields.io/badge/bilibili-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zkhssb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <div align="center">
   <br/>  
